@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Javier Pérez</h1>
+<h1 align="center">Welcome my GitHub </h1>
 <h3 align="center">A passionate frontend developer from Barcelona</h3>
 
-- 🌱 I’m currently learning **ITAcademy**
+- 🌱 I’m currently learning **ITAcademy-Barcelona Activa **
 
 - 👨‍💻 All of my projects are available at [idilien.com](idilien.com)
 
