@@ -1,6 +1,6 @@
 
 <h1 align="center">Welcome my GitHub </h1>
-<h3 align="center">A passionate frontend developer from Barcelona</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
 - 🌱 I’m currently learning **ITAcademy-Barcelona Activa **
 
