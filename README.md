@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ITAcademy**
 
-- 👨‍💻 All of my projects are available at [idilien.com](idilien.com)
+<!-- - 👨‍💻 All of my projects are available at [idilien.com](idilien.com) -->
 
 - 📫 How to reach me **javiperez2010@yahoo.es**
 
