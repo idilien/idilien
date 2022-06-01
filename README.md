@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [idilien.com](idilien.com)
 
-- 📫 How to reach me **javiperez2010@yahoo.es**
+- 📫 How to reach me **idiliendev@gmail.com**
 
 <h3 align="left">Connect with me!!</h3>
 <p align="left">
